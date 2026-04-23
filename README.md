@@ -11,7 +11,7 @@
 
 ### Aditya Parekh · Cybersecurity Graduate Student · RMIT University, Melbourne 🇦🇺
 ### Exploring the full spectrum — Offensive | Defensive | Forensics
-###> Open to connecting with other security folks, researchers, and anyone working in the space
+### Open to connecting with other security folks, researchers, and anyone working in the space
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Parekh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
