@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
- █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗ 
-██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗
-███████║██║  ██║██║   ██║    ╚████╔╝ ███████║
-██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║
-██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
+ █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗      ██████╗  █████╗ ██████╗ ███████╗██╗  ██╗██╗  ██╗
+██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗     ██╔══██╗██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██║  ██║
+███████║██║  ██║██║   ██║    ╚████╔╝ ███████║     ██████╔╝███████║██████╔╝█████╗  █████╔╝ ███████║
+██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║     ██╔═══╝ ██╔══██║██╔══██╗██╔══╝  ██╔═██╗ ██╔══██║
+██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║     ██║     ██║  ██║██║  ██║███████╗██║  ██╗██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝     ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
 ### Aditya Parekh · Cybersecurity Graduate Student · RMIT University, Melbourne 🇦🇺
@@ -24,9 +24,11 @@ I'm a Masters student in Cybersecurity at **RMIT University, Melbourne**, curren
 
 My approach: **understand the attack to build the defence.** I work hands-on, build tools to learn concepts, and document everything.
 
-- 🎓 MSc Cybersecurity — RMIT University 
+- 🎓 MSc Cybersecurity — RMIT University *(in progress)*
+- 🛡️ CompTIA Security+ — *in preparation*
 - 🌏 Based in Melbourne, Australia
-- 🔭 Currently: Pursing my masters and trying my best to get whatever experience I can
+- 🔭 Currently: Building a portfolio of real-world security tools
+- 📚 Learning: Network analysis, malware behaviour, web vulnerabilities
 
 ---
 
@@ -76,9 +78,22 @@ My approach: **understand the attack to build the defence.** I work hands-on, bu
 
 </div>
 
+---
+
+## 🎯 Current Goals (2025–2026)
+
+- [ ] Complete CompTIA Security+
+- [ ] Publish 4–5 well-documented security tools
+- [ ] Complete TryHackMe Jr Pentester path
+- [ ] Write technical blog posts / CTF write-ups
+- [ ] Land a cybersecurity role or internship in Australia
+
+---
 
 ## 📬 Get In Touch
 
 > Open to connecting with other security folks, researchers, and anyone working in the space
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Parekh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Akparekh01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Parekh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
+*Replace `YOUR_LINKEDIN_USERNAME` in the link above with your actual LinkedIn handle.*
