@@ -11,6 +11,10 @@
 
 ### Aditya Parekh · Cybersecurity Graduate Student · RMIT University, Melbourne 🇦🇺
 ### Exploring the full spectrum — Offensive | Defensive | Forensics
+###> Open to connecting with other security folks, researchers, and anyone working in the space
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Parekh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=600&lines=Masters+in+Cybersecurity+%40+RMIT;Python+%7C+Kali+Linux+%7C+HackTheBox;Breaking+things+to+understand+how+to+fix+them.)
 
@@ -78,22 +82,9 @@ My approach: **understand the attack to build the defence.** I work hands-on, bu
 
 </div>
 
----
 
-## 🎯 Current Goals (2025–2026)
-
-- [ ] Complete CompTIA Security+
-- [ ] Publish 4–5 well-documented security tools
-- [ ] Complete TryHackMe Jr Pentester path
-- [ ] Write technical blog posts / CTF write-ups
-- [ ] Land a cybersecurity role or internship in Australia
-
----
 
 ## 📬 Get In Touch
 
-> Open to connecting with other security folks, researchers, and anyone working in the space
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Parekh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
-*Replace `YOUR_LINKEDIN_USERNAME` in the link above with your actual LinkedIn handle.*
